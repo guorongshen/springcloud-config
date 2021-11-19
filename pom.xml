@@ -24,6 +24,8 @@
       <module>cloude-consumer-hystrix-dashboard9001</module>
       <module>cloud-gateway-gateway9527</module>
       <module>springcloud-config</module>
+      <module>cloud-config-center-3344</module>
+    <module>cloud-config</module>
   </modules>
   <packaging>pom</packaging>
 
